@@ -59,7 +59,7 @@
               <img src="https://protege-moi-sur-internet.com/images/onionshare.png" class="card-img-top" alt="">
               <div class="card-body">
                 <h5 class="card-title">OnionShare</h5>
-                <p class="card-text">Pour partager ses fichiers sur Tor !</p>
+                <p class="card-text">Pour partager, héberger et communiquer sur Tor !</p>
                 <a href="https://protege-moi-sur-internet.com/partage/onionshare.php" role="button" class="btn">En savoir plus</a>
               </div>
             </div>
