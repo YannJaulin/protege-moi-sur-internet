@@ -74,20 +74,14 @@
                 <div class="py-4"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">OnionShare est un logiciel de partage créé par Micah Lee.</p>
+                <p class="lead text-center">OnionShare est un logiciel de partage de fichiers, d'hébergement de sites et de messagerie créé par Micah Lee.</p>
 
                 <!-- Séparateur -->
                 <div class="py-2"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Open source et sécurisé, il vous permet de partager des fichiers de n'importe quelle taille en utilisant le réseau Tor.</p>
+                <p class="lead text-center">Open source et sécurisé, il démarre un serveur web et génère une adresse temporaire, accessible avec le navigateur Tor.</p>
                 
-                <!-- Séparateur -->
-                <div class="py-2"></div>
-
-                <!-- Présentation -->
-                <p class="lead text-center">Une fois vos fichiers sélectionnés, il démarre un serveur web et génère une adresse temporaire, accessible avec le navigateur Tor.</p>
-
                 <!-- Séparateur -->
                 <div class="py-2"></div>
 
@@ -108,8 +102,8 @@
                   <div class="btn-group mr-2" role="group" aria-label="Site de OnionShare">
                     <a href="https://onionshare.org/" target="_blank" role="button" class="btn">Site officiel <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
-                  <div class="btn-group" role="group" aria-label="GitHub de OnionShare">
-                    <a href="https://github.com/micahflee/onionshare" target="_blank" role="button" class="btn">GitHub <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                  <div class="btn-group" role="group" aria-label="Documentation de OnionShare">
+                    <a href="https://docs.onionshare.org/" target="_blank" role="button" class="btn">Documentation <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                 </div>
 
