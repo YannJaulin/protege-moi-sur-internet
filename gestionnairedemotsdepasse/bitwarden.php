@@ -86,7 +86,7 @@
                 <div class="py-2"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Vous disposez d'un générateur de mots de passe, de la double authentification et d'encore plus, si vous passez en utilisateur premium.</p>
+                <p class="lead text-center">Vous disposez d'un générateur de mots de passe, d'un outil de partage de textes et de fichiers éphémère et d'encore plus, si vous passez en utilisateur premium.</p>
 
                 <!-- Séparateur -->
                 <div class="py-2"></div>
