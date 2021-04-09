@@ -8,7 +8,7 @@
 
    <!-- Meta -->
    <meta name="author" content="Yann Jaulin">
-   <meta name="keywords" content="Ressources, AlternativeTo, April, CHATONS, Exodus Privacy, Framasoft, Le Courrier du hacker, Librairies Indépendantes, LoL, une affaire sérieuse, Paf LeGeek">
+   <meta name="keywords" content="Ressources, AlternativeTo, April, CHATONS, Exodus Privacy, Framasoft, Have I Been Pwned, Internet Archive, Le Courrier du hacker, Librairies Indépendantes, LoL, une affaire sérieuse, Paf LeGeek, Wikipédia">
    <meta name="description" content="Bienvenue sur la page des ressources, proposée par Protège-moi sur Internet !">
 
    <?php
@@ -86,7 +86,7 @@
                 <img src="https://protege-moi-sur-internet.com/images/alternativeto.jpg" class="card-img-top" alt="">
                 <div class="card-body">
                   <h5 class="card-title">AlternativeTo</h5>
-                  <p class="card-text">Le site pour trouver des alternatives aux logiciels et services les plus connus !</p>
+                  <p class="card-text">Un site pour trouver des alternatives aux logiciels et services les plus connus !</p>
                   <a href="https://alternativeto.net/" target="_blank" role="button" class="btn">Se rendre sur le site <i class="fa fa-external-link" aria-hidden="true"></i></a>
                 </div>
               </div>
@@ -116,7 +116,7 @@
                 <img src="https://protege-moi-sur-internet.com/images/exodusprivacy.jpg" class="card-img-top" alt="">
                 <div class="card-body">
                   <h5 class="card-title">Exodus Privacy</h5>
-                  <p class="card-text">La plateforme d’audit de la vie privée des applications Android !</p>
+                  <p class="card-text">Une plateforme d’audit de la vie privée des applications Android !</p>
                   <a href="https://exodus-privacy.eu.org/fr/" target="_blank" role="button" class="btn">Se rendre sur le site <i class="fa fa-external-link" aria-hidden="true"></i></a>
                 </div>
               </div>
@@ -133,10 +133,30 @@
             </div>
             <div class="col mb-4">
               <div class="card h-100">
+                <img src="https://protege-moi-sur-internet.com/images/haveibeenpwned.png" class="card-img-top" alt="">
+                <div class="card-body">
+                  <h5 class="card-title">Have I Been Pwned</h5>
+                  <p class="card-text">Une plateforme qui vérifie si vos données personnelles ont été compromises à la suite d'une fuite !</p>
+                  <a href="https://haveibeenpwned.com/" target="_blank" role="button" class="btn">Se rendre sur le site <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col mb-4">
+              <div class="card h-100">
+                <img src="https://protege-moi-sur-internet.com/images/internetarchive.jpg" class="card-img-top" alt="">
+                <div class="card-body">
+                  <h5 class="card-title">Internet Archive</h5>
+                  <p class="card-text">Une bibliothèque numérique gratuite et universelle consacrée à l'archivage culturel !</p>
+                  <a href="https://archive.org/" target="_blank" role="button" class="btn">Se rendre sur le site <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col mb-4">
+              <div class="card h-100">
                 <img src="https://protege-moi-sur-internet.com/images/lecourrierduhacker.jpg" class="card-img-top" alt="">
                 <div class="card-body">
                   <h5 class="card-title">Le Courrier du hacker</h5>
-                  <p class="card-text">La newsletter sur l'actualité du logiciel libre et open source !</p>
+                  <p class="card-text">Une newsletter sur l'actualité du logiciel libre et open source !</p>
                   <a href="https://lecourrierduhacker.com/" target="_blank" role="button" class="btn">Se rendre sur le site <i class="fa fa-external-link" aria-hidden="true"></i></a>
                 </div>
               </div>
@@ -168,6 +188,16 @@
                   <h5 class="card-title">Paf LeGeek</h5>
                   <p class="card-text">Une chaîne dédiée à la présentation d'applications pour protéger votre vie privée sur Internet !</p>
                   <a href="https://www.youtube.com/channel/UCCSHWqosFfYJY5v2WqbTLhg" target="_blank" role="button" class="btn">Se rendre sur la chaîne <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col mb-4">
+                <div class="card h-100">
+                  <img src="https://protege-moi-sur-internet.com/images/wikipedia.jpg" class="card-img-top" alt="">
+                  <div class="card-body">
+                    <h5 class="card-title">Wikipédia</h5>
+                    <p class="card-text">Une encyclopédie collaborative, libre, multilingue et universelle gérée en wiki !</p>
+                    <a href="https://fr.wikipedia.org/" target="_blank" role="button" class="btn">Se rendre sur le site <i class="fa fa-external-link" aria-hidden="true"></i></a>
                 </div>
               </div>
             </div>

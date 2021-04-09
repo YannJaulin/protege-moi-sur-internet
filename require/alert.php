@@ -2,7 +2,7 @@
         <div class="row">
             <div class="col-md">
                 <div class="alert alert-success" role="alert">
-                    <strong>24/02/2021 :</strong> Afin de faire connaître les actions des CHATONS et de Exodus Privacy, des liens vers leurs services ont été ajoutés sur les articles compatibles. Bonne navigation !
+                    <strong>09/04/2021 :</strong> Des nouveaux liens ont été ajoutés et il s'agit de Have I Been Pwned, de Internet Archive et de Wikipédia. Vous pouvez les consulter en allant sur Ressources. Bonne navigation !
                 </div>
             </div>
         </div>
