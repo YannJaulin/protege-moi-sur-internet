@@ -74,7 +74,7 @@
                 <div class="py-4"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">ProtonMail est un service de courrier de la société suisse Proton Technologies AG.</p>
+                <p class="lead text-center">ProtonMail est un service de courrier et d'agenda de la société suisse Proton Technologies AG.</p>
 
                 <!-- Séparateur -->
                 <div class="py-2"></div>
