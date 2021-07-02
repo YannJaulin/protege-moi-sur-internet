@@ -115,7 +115,7 @@
                     <a href="https://reports.exodus-privacy.eu.org/fr/reports/org.jitsi.meet/latest/" target="_blank" role="button" class="btn">εxodus <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                   <div class="btn-group" role="group" aria-label="Service des CHATONS">
-                    <a href="https://wiki.chatons.org/doku.php/la_visio-conference_avec_jitsi" target="_blank" role="button" class="btn">CHATONS <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                    <a href="https://wiki.chatons.org/doku.php/services/visio-conference/jitsi" target="_blank" role="button" class="btn">CHATONS <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                 </div>
 
