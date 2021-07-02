@@ -10,12 +10,6 @@
 
 <url>
 
-  <loc>https://protege-moi-sur-internet.com/ressources.php</loc>
-
-</url>
-
-<url>
-
   <loc>https://protege-moi-sur-internet.com/bureautique/</loc>
 
 </url>
@@ -148,6 +142,24 @@
 
 <url>
 
+  <loc>https://protege-moi-sur-internet.com/materiels/</loc>
+
+</url>
+
+<url>
+
+  <loc>https://protege-moi-sur-internet.com/materiels/olinuxino.php</loc>
+
+</url>
+
+<url>
+
+  <loc>https://protege-moi-sur-internet.com/materiels/solokeys.php</loc>
+
+</url>
+
+<url>
+
   <loc>https://protege-moi-sur-internet.com/messagerie/</loc>
 
 </url>
@@ -251,6 +263,12 @@
 <url>
 
   <loc>https://protege-moi-sur-internet.com/prisedenotes/turtl.php</loc>
+
+</url>
+
+<url>
+
+  <loc>https://protege-moi-sur-internet.com/ressources.php</loc>
 
 </url>
 
