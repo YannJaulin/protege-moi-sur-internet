@@ -43,8 +43,11 @@
                 </div>
             </li>
             <li class="nav-item active">
+              <a class="nav-link" href="https://protege-moi-sur-internet.com/materiels/"><i class="fa fa-microchip" aria-hidden="true"></i> Matériels</a>
+            </li>
+            <li class="nav-item active">
               <a class="nav-link" href="https://protege-moi-sur-internet.com/ressources.php"><i class="fa fa-bookmark" aria-hidden="true"></i> Ressources</a>
-          </li>
+            </li>
           </ul>
         </div>
     </nav>
