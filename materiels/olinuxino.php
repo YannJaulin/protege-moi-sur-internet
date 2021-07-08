@@ -112,10 +112,10 @@
                     <a href="https://github.com/OLIMEX/OLINUXINO" target="_blank" role="button" class="btn">GitHub <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                   <div class="btn-group mr-2" role="group" aria-label="Site de FreedomBox">
-                    <a href="https://www.freedombox.org/" target="_blank" role="button" class="btn">FreedomBox <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                    <a href="https://www.freedombox.org/fr/" target="_blank" role="button" class="btn">FreedomBox <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                   <div class="btn-group" role="group" aria-label="Site de YunoHost">
-                    <a href="https://yunohost.org/" target="_blank" role="button" class="btn">YunoHost <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                    <a href="https://yunohost.org/#/index_fr" target="_blank" role="button" class="btn">YunoHost <i class="fa fa-external-link" aria-hidden="true"></i></a>
                   </div>
                 </div>
 
