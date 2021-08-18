@@ -8,10 +8,8 @@
     <ul class="list-inline">
         <li class="list-inline-item"><a href="mailto:ProtegeMoiSurInternet@protonmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i> Contact</a></li>
         <li class="list-inline-item"><a href="https://github.com/YannJaulin/protege-moi-sur-internet" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a></li>
-        <li class="list-inline-item"><a href="https://web.archive.org/web/*/https://protege-moi-sur-internet.com/" target="_blank"><i class="fa fa-archive-org" aria-hidden="true"></i> Internet Archive</a></li>
         <li class="list-inline-item"><a href="https://octodon.social/@Reallysecuretools" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
         <li class="list-inline-item"><a href="https://protege-moi-sur-internet.com/sitemap.xml" target="_blank"><i class="fa fa-sitemap" aria-hidden="true"></i> Plan du site</a></li>
-        <li class="list-inline-item"><a href="https://t.me/pmsinternet" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i> Telegram</a></li>
         <li class="list-inline-item"><a href="https://twitter.com/PMSInternet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a></li>
         <li class="list-inline-item"><a href="https://app.flus.fr/collections/1703840484612735958" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Veille Flus</a></li>
     </ul>
