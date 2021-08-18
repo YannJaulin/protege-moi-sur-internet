@@ -92,7 +92,7 @@
                 <div class="py-2"></div>
 
                 <!-- Présentation -->
-                <p class="lead text-center">Enfin, l'offre premium vous permet d'avoir plus d'espaces de stockage, plus de collaborateurs et si vous ne souhaitez pas utiliser leur nuage, vous pouvez l'héberger sur votre serveur.</p>
+                <p class="lead text-center">Enfin, elle a fait l'objet d'un audit indépendant et l'offre premium vous permet d'avoir plus d'espaces de stockage, plus de collaborateurs et si vous ne souhaitez pas utiliser leur nuage, vous pouvez l'héberger sur votre serveur.</p>
                 
                 <!-- Séparateur -->
                 <div class="py-4"></div>
