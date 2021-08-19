@@ -28,4 +28,4 @@ L'annuaire est sous la licence **CC BY-SA 4.0**, excepté les logos des logiciel
 
 - - -
 
-**[Contact](mailto:ProtegeMoiSurInternet@protonmail.com)** | **[Mastodon](https://octodon.social/@reallysecuretools)** | **[Telegram](https://t.me/pmsinternet)** | **[Twitter](https://twitter.com/PMSInternet)**
+**[Contact](mailto:ProtegeMoiSurInternet@protonmail.com)** | **[Mastodon](https://octodon.social/@reallysecuretools)** | **[Twitter](https://twitter.com/PMSInternet)**
